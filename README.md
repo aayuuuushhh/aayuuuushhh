@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I'm Aayush Shah Nirala<br>AI Enthusiast<br>I’m a Bachelor’s student in Artificial Intelligence at Sunway College (affiliated with Birmingham City University, UK), passionate about building real-world solutions that combine AI, software, and business innovation.<br>
 
 

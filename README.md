@@ -2,9 +2,9 @@
 <!--                     GitHub Profile README                  -->
 <!-- ========================================================= -->
 
-<h1 align="center">Hi 👋, I'm Aayush Shah Nirala</h1>
+<h1 align="center">Hi, I'm Aayush Shah Nirala</h1>
 <h3 align="center">
-AI Enthusiast • Full Stack Developer • MERN Stack Developer • Future AI Engineer
+AI Enthusiast • MERN Stack Developer 
 </h3>
 
 <p align="center">
@@ -13,35 +13,32 @@ AI Enthusiast • Full Stack Developer • MERN Stack Developer • Future AI En
 
 ---
 
-# 💫 About Me
+#  About Me
 
-🎓 I'm currently pursuing my **Bachelor's Degree in Computer Science with Artificial Intelligence** at **Sunway College**, affiliated with **Birmingham City University (UK).**
+I'm currently pursuing my **Bachelor's Degree in Computer Science with Artificial Intelligence** at **Sunway College**, affiliated with **Birmingham City University (UK).**
 
-💡 I'm passionate about creating **AI-powered software**, **web applications**, and **business solutions** that solve real-world problems.
+ I'm passionate about creating **AI-powered software**, **web applications**, and **business solutions** that solve real-world problems.
 
-🚀 My interests include:
+ My interests include:
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🌐 Full Stack Web Development
-- 📱 Modern Web Applications
-- ☁️ Cloud Technologies
-- 📊 Business & Technology Innovation
+- Artificial Intelligence
+-  Machine Learning
+-  Full Stack Web Development
+-  Modern Web Applications
+-  Business & Technology Innovation
 
-🌱 Currently Learning
+ Currently Learning
 
-- Advanced Machine Learning
 - System Design
-- Deep Learning
 - Scalable Backend Architecture
 
-👨‍💻 I enjoy transforming ideas into practical products that positively impact people's lives.
+ I enjoy transforming ideas into practical products that positively impact people's lives.
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-### 💊 MedSync
+###  MedSync
 An AI-powered medicine management system that enables QR-based medicine verification, smart inventory management, and AI-assisted medicine recommendations.
 
 **Tech Stack**
@@ -52,7 +49,7 @@ An AI-powered medicine management system that enables QR-based medicine verifica
 
 ---
 
-### 🛒 Shakti Mart
+###  Shakti Mart
 
 An intelligent supermarket management system with inventory, billing, analytics, customer management, and AI integration.
 
@@ -66,7 +63,7 @@ An intelligent supermarket management system with inventory, billing, analytics,
 
 ---
 
-### 🚖 Sawari Sathi
+###  Sawari Sathi
 
 A ride-sharing platform designed with modern UI/UX, real-time ride tracking, and an advanced admin dashboard.
 
@@ -80,24 +77,24 @@ A ride-sharing platform designed with modern UI/UX, real-time ride tracking, and
 
 ---
 
-### 🧠 AI Drug Interaction Prediction
+###  AI Drug Interaction Checker
 
 An Artificial Intelligence project capable of predicting harmful drug interactions using machine learning.
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ## Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,java,c,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=python,javascript,java,c,html,css" />
 </p>
 
 ## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
 </p>
 
 ## Backend
@@ -112,21 +109,16 @@ An Artificial Intelligence project capable of predicting harmful drug interactio
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
 </p>
 
-## AI & Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
 
 ## Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,canva,vercel,netlify,linux" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,canva,vercel" />
 </p>
 
 ---
 
-# 🌎 Connect With Me
+#  Connect With Me
 
 <p align="left">
 
@@ -142,7 +134,7 @@ An Artificial Intelligence project capable of predicting harmful drug interactio
 
 ---
 
-# 📈 GitHub Statistics
+#  GitHub Statistics
 
 <p align="center">
 
@@ -160,7 +152,7 @@ An Artificial Intelligence project capable of predicting harmful drug interactio
 
 ---
 
-# 📊 GitHub Activity Graph
+#  GitHub Activity Graph
 
 <p align="center">
 
@@ -170,7 +162,7 @@ An Artificial Intelligence project capable of predicting harmful drug interactio
 
 ---
 
-# 🏆 GitHub Trophies
+#  GitHub Trophies
 
 <p align="center">
 
@@ -180,7 +172,7 @@ An Artificial Intelligence project capable of predicting harmful drug interactio
 
 ---
 
-# 🔥 Contribution Snake
+# Contribution Snake
 
 <picture>
 
@@ -194,7 +186,7 @@ An Artificial Intelligence project capable of predicting harmful drug interactio
 
 ---
 
-# 📚 Currently Exploring
+#  Currently Exploring
 
 - Artificial Intelligence
 - Deep Learning
@@ -202,12 +194,11 @@ An Artificial Intelligence project capable of predicting harmful drug interactio
 - Machine Learning
 - MERN Stack
 - Scalable Backend Systems
-- Cloud Computing
 - System Design
 
 ---
 
-# 🎯 2026 Goals
+#  2026 Goals
 
 ✅ Build Production-Level AI Applications
 
@@ -223,19 +214,19 @@ An Artificial Intelligence project capable of predicting harmful drug interactio
 
 ---
 
-# ✨ Random Dev Quote
+#  Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-# 😂 Random Dev Meme
+#  Random Dev Meme
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 
 ---
 
-# 👀 Profile Views
+#  Profile Views
 
 <p align="center">
 
@@ -245,7 +236,7 @@ An Artificial Intelligence project capable of predicting harmful drug interactio
 
 ---
 
-# 💖 Support
+#  Support
 
 If you like my work, consider giving a ⭐ to my repositories.
 

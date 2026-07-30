@@ -76,7 +76,7 @@ mindset:     Always shipping, always learning
 <p><img src="https://skillicons.dev/icons?i=nodejs,express" /></p>
 
 **Database**
-<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" /></p>
+<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" /></p>
 
 **Tools & Platforms**
 <p><img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,canva,vercel" /></p>

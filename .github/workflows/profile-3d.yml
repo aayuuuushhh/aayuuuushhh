@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "15 18 * * *"   # daily, ~00:00 Nepal time
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "profile-3d-contrib/**"
 
 permissions:
   contents: write
